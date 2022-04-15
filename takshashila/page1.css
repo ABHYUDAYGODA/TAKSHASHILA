@@ -1,0 +1,40 @@
+.home{
+    background-color: grey;
+    color: black;
+    height: 1cm;
+    width: 3cm;
+    font-weight: bold;
+}
+.forstudents{
+    background-color: gray;
+    color: black;
+    height: 1cm;
+    width: 3cm;
+    font-weight: bold;
+}
+.about{
+    background-color: gray;
+    color: black;
+    height: 1cm;
+    width: 3cm;
+    font-weight: bold;
+}
+.contact{
+    background-color: gray;
+    color: black;
+    height: 1cm;
+    width: 3cm;
+    font-weight: bold;
+}
+.learnmore{
+    background-color: black;
+    color: gray;
+    height: 1cm;
+    width: 3cm;
+}
+body{
+    <style>
+body {
+  background-image: url('img_girl.jpg');
+
+}
